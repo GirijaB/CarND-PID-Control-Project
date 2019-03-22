@@ -47,3 +47,4 @@ The values of the P, I, and D hyperparameters were fine tuned manually to:
 P =-0.125; I = 0 D = -2.5
 The P coefficient was chosen to minimize the oscillations from one edge to the other. The D coefficient was chosen so as the system recovers smoothly. The I coefficient was chosen to be 0 as the car running in the simulator did not seem to have any drift.
 
+I have uploaded the video for the project along with the Readme file.
